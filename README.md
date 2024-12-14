@@ -20,5 +20,5 @@ To get started with this repository, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Tharun-Techie/popular-books-html-markdown.git
+   git clone https://github.com/Tharun-Techie/books-to-html-markdown.git
    cd popular-books-html-markdown
